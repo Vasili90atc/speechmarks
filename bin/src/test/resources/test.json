@@ -1,0 +1,2398 @@
+{
+    "duration": 2768481,
+    "speechMarks": [{
+        "end": 22,
+        "value": "Peace: it's wonderful.",
+        "start": 0,
+        "time": 0,
+        "type": "sentence"
+    }, {
+        "end": 168,
+        "value": "I like it as much as the next man, and have no wish to be willfully gloomy at a moment when optimism about the future shape of the world abounds.",
+        "start": 23,
+        "time": 1824,
+        "type": "sentence"
+    }, {
+        "end": 271,
+        "value": "Nevertheless my thesis in this essay is that we are likely soon to regret the passing of the Cold War.",
+        "start": 169,
+        "time": 9157,
+        "type": "sentence"
+    }, {
+        "end": 370,
+        "value": "To be sure, no one will miss such by-products of the Cold War as the Korean and Vietnam conflicts.",
+        "start": 272,
+        "time": 14506,
+        "type": "sentence"
+    }, {
+        "end": 475,
+        "value": "No one will want to replay the U-2 affair, the Cuban missile crisis, or the building of the Berlin Wall.",
+        "start": 371,
+        "time": 19934,
+        "type": "sentence"
+    }, {
+        "end": 605,
+        "value": "And no one will want to revisit the domestic Cold War, with its purges and loyalty oaths, its xenophobia and stifling of dissent.",
+        "start": 476,
+        "time": 25627,
+        "type": "sentence"
+    }, {
+        "end": 711,
+        "value": "We will not wake up one day to discover fresh wisdom in the collected fulminations of John Foster Dulles.",
+        "start": 606,
+        "time": 32819,
+        "type": "sentence"
+    }, {
+        "end": 842,
+        "value": "We may, however, wake up one day lamenting the loss of the order that the Cold War gave to the anarchy of international relations.",
+        "start": 712,
+        "time": 38582,
+        "type": "sentence"
+    }, {
+        "end": 1032,
+        "value": "For untamed anarchy is what Europe knew in the forty-five years of this century before the Cold War, and untamed anarchy-Hobbes's war of all against all--is a prime cause of armed conflict.",
+        "start": 843,
+        "time": 45406,
+        "type": "sentence"
+    }, {
+        "end": 1235,
+        "value": "Those who think that armed conflicts among the European states are now out of the question, that the two world wars burned all the war out of Europe, are projecting unwarranted optimism onto the future.",
+        "start": 1033,
+        "time": 55062,
+        "type": "sentence"
+    }, {
+        "end": 1329,
+        "value": "The theories of peace that implicitly undergird this optimism are notably shallow constructs.",
+        "start": 1236,
+        "time": 65187,
+        "type": "sentence"
+    }, {
+        "end": 1387,
+        "value": "They stand up to neither logical nor historical analysis.",
+        "start": 1330,
+        "time": 70269,
+        "type": "sentence"
+    }, {
+        "end": 1451,
+        "value": "You would not want to bet the farm on their prophetic accuracy.",
+        "start": 1388,
+        "time": 73633,
+        "type": "sentence"
+    }, {
+        "end": 1687,
+        "value": "The world is about to conduct a vast test of the theories of war and peace put forward by social scientists, who never dreamed that their ideas would be tested by the world-historic events announced almost daily in newspaper headlines.",
+        "start": 1452,
+        "time": 75781,
+        "type": "sentence"
+    }, {
+        "end": 1817,
+        "value": "This social scientist is willing to put his theoretical cards on the table as he ventures predictions about the future of Europe.",
+        "start": 1688,
+        "time": 87319,
+        "type": "sentence"
+    }, {
+        "end": 1938,
+        "value": "In the process, I hope to put alternative theories of war and peace under as much intellectual pressure as I can muster.",
+        "start": 1818,
+        "time": 93702,
+        "type": "sentence"
+    }, {
+        "end": 2092,
+        "value": "My argument is that the prospect of major crises, even wars, in Europe is likely to increase dramatically now that the Cold War is receding into history.",
+        "start": 1939,
+        "time": 99898,
+        "type": "sentence"
+    }, {
+        "end": 2407,
+        "value": "The next forty-five years in Europe are not likely to be so violent as the forty-five years before the Cold War, but they are likely to be substantially more violent than the past forty-five years, the era that we may someday look back upon not as the Cold War but as the Long Peace, in John Lewis Gaddis's phrase.",
+        "start": 2093,
+        "time": 108397,
+        "type": "sentence"
+    }, {
+        "end": 2570,
+        "value": "This pessimistic conclusion rests on the general argument that the distribution and character of military power among states are the root causes of war and peace.",
+        "start": 2408,
+        "time": 124264,
+        "type": "sentence"
+    }, {
+        "end": 2966,
+        "value": "Specifically, the peace in Europe since 1945--precarious at first, but increasingly robust over time--has flowed from three factors: the bipolar distribution of military power on the Continent; the rough military equality between the polar powers, the United States and the Soviet Union; and the ritualistically deplored fact that each of these superpowers is armed with a large nuclear arsenal.",
+        "start": 2571,
+        "time": 132431,
+        "type": "sentence"
+    }, {
+        "end": 3020,
+        "value": "We don't yet know the entire shape of the new Europe.",
+        "start": 2967,
+        "time": 153954,
+        "type": "sentence"
+    }, {
+        "end": 3048,
+        "value": "But we do know some things.",
+        "start": 3021,
+        "time": 156569,
+        "type": "sentence"
+    }, {
+        "end": 3267,
+        "value": "We know, for example, that the new Europe will involve a return to the multipolar distribution of power that characterized the European state system from its founding, with the Peace of Westphalia, in 1648, until 1945.",
+        "start": 3049,
+        "time": 158388,
+        "type": "sentence"
+    }, {
+        "end": 3357,
+        "value": "We know that this multipolar European state system was plagued by war from first to last.",
+        "start": 3268,
+        "time": 171943,
+        "type": "sentence"
+    }, {
+        "end": 3506,
+        "value": "We know that from 1900 to 1945 some 50 million Europeans were killed in wars that were caused in great part by the instability of this state system.",
+        "start": 3358,
+        "time": 177001,
+        "type": "sentence"
+    }, {
+        "end": 3806,
+        "value": "We also know that since 1945 only some 15,000 Europeans have been killed in wars: roughly 10,000 Hungarians and Russians, in what we might call the Russo-Hungarian War of October and November, 1956, and somewhere between 1,500 and 5,000 Greeks and Turks, in the July and August, 1974, war on Cyprus.",
+        "start": 3507,
+        "time": 185669,
+        "type": "sentence"
+    }, {
+        "end": 3925,
+        "value": "The point is clear: Europe is reverting to a state system that created powerful incentives for aggression in the past.",
+        "start": 3807,
+        "time": 206863,
+        "type": "sentence"
+    }, {
+        "end": 4376,
+        "value": "If you believe (as the Realist school of international-relations theory, to which I belong, believes) that the prospects for international peace are not markedly influenced by the domestic political character of states--that it is the character of the state system, not the character of the individual units composing it, that drives states toward war--then it is difficult to share in the widespread elation of the moment about the future of Europe.",
+        "start": 3926,
+        "time": 212951,
+        "type": "sentence"
+    }, {
+        "end": 4496,
+        "value": "Last year was repeatedly compared to 1789, the year the French Revolution began, as the Year of Freedom, and so it was.",
+        "start": 4377,
+        "time": 235261,
+        "type": "sentence"
+    }, {
+        "end": 4622,
+        "value": "Forgotten in the general exaltation was that the hope-filled events of 1789 signaled the start of an era of war and conquest.",
+        "start": 4497,
+        "time": 242951,
+        "type": "sentence"
+    }, {
+        "end": 4787,
+        "value": "A \"Hard\" Theory of Peace What caused the era of violence in Europe before 1945, and why has the postwar era, the period of the Cold War, been so much more peaceful?",
+        "start": 4623,
+        "time": 249900,
+        "type": "sentence"
+    }, {
+        "end": 5076,
+        "value": "The two world wars before 1945 had myriad particular and unrepeatable causes, but to the student of international relations seeking to establish generalizations about the behavior of states in the past which might illuminate their behavior in the future, two fundamental causes stand out.",
+        "start": 4788,
+        "time": 259843,
+        "type": "sentence"
+    }, {
+        "end": 5253,
+        "value": "These are the multipolar distribution of power in Europe, and the imbalances of strength that often developed among the great powers as they jostled for supremacy or advantage.",
+        "start": 5077,
+        "time": 275447,
+        "type": "sentence"
+    }, {
+        "end": 5382,
+        "value": "There is something elementary about the geometry of power in international relations, and so its importance is easy to overlook.",
+        "start": 5254,
+        "time": 284003,
+        "type": "sentence"
+    }, {
+        "end": 5452,
+        "value": "Bipolarity\" and \"multipolarity\" are ungainly but necessary coinages.",
+        "start": 5384,
+        "time": 290861,
+        "type": "sentence"
+    }, {
+        "end": 5577,
+        "value": "The Cold War, with two superpowers serving to anchor rival alliances of clearly inferior powers, is our model of bipolarity.",
+        "start": 5453,
+        "time": 295017,
+        "type": "sentence"
+    }, {
+        "end": 5717,
+        "value": "Europe in 1914, with France, Germany, Great Britain, Austria-Hungary, and Russia positioned as great powers, is our model of multipolarity.",
+        "start": 5578,
+        "time": 302735,
+        "type": "sentence"
+    }, {
+        "end": 5872,
+        "value": "If the example of 1914 is convincing enough evidence that multipolar systems are the more dangerous geometry of power, then perhaps I should rest my case.",
+        "start": 5718,
+        "time": 311301,
+        "type": "sentence"
+    }, {
+        "end": 5985,
+        "value": "Alas for theoretical elegance, there are no empirical studies providing conclusive support for this proposition.",
+        "start": 5873,
+        "time": 320270,
+        "type": "sentence"
+    }, {
+        "end": 6159,
+        "value": "From its beginnings until 1945 the European state system was multipolar, so this history is barren of comparisons that would reveal the differing effects of the two systems.",
+        "start": 5986,
+        "time": 326526,
+        "type": "sentence"
+    }, {
+        "end": 6313,
+        "value": "Earlier history, to be sure, does furnish scattered examples of bipolar systems, including some--Athens and Sparta, Rome and Carthage--that were warlike.",
+        "start": 6160,
+        "time": 336093,
+        "type": "sentence"
+    }, {
+        "end": 6373,
+        "value": "But this history is inconclusive, because it is incomplete.",
+        "start": 6314,
+        "time": 344943,
+        "type": "sentence"
+    }, {
+        "end": 6504,
+        "value": "Lacking a comprehensive survey of history, we can't do much more than offer examples--now on this, now on that side of the debate.",
+        "start": 6374,
+        "time": 348547,
+        "type": "sentence"
+    }, {
+        "end": 6564,
+        "value": "As a result, the case made here rests chiefly on deduction.",
+        "start": 6505,
+        "time": 355617,
+        "type": "sentence"
+    }, {
+        "end": 6688,
+        "value": "Deductively, a bipolar system is more peaceful for the simple reason that under it only two major powers are in contention.",
+        "start": 6565,
+        "time": 359337,
+        "type": "sentence"
+    }, {
+        "end": 6831,
+        "value": "Moreover those great powers generally demand allegiance from minor powers in the system, which is likely to produce rigid alliance structures.",
+        "start": 6689,
+        "time": 365947,
+        "type": "sentence"
+    }, {
+        "end": 6931,
+        "value": "The smaller states are then secure from each other as well as from attack by the rival great power.",
+        "start": 6832,
+        "time": 373041,
+        "type": "sentence"
+    }, {
+        "end": 7083,
+        "value": "Consequently (to make a Dick-and-Jane point with a well-worn social-science term), a bipolar system has only one dyad across which war might break out.",
+        "start": 6932,
+        "time": 378093,
+        "type": "sentence"
+    }, {
+        "end": 7147,
+        "value": "A multipolar system is much more fluid and has many such dyads.",
+        "start": 7084,
+        "time": 386625,
+        "type": "sentence"
+    }, {
+        "end": 7269,
+        "value": "Therefore, other things being equal, war is statistically more likely in a multipolar system than it is in a bipolar one.",
+        "start": 7148,
+        "time": 389799,
+        "type": "sentence"
+    }, {
+        "end": 7439,
+        "value": "Admittedly, wars in a multipolar world that involve only minor powers or only one major power are not likely to be as devastating as a conflict between two major powers.",
+        "start": 7270,
+        "time": 396731,
+        "type": "sentence"
+    }, {
+        "end": 7504,
+        "value": "But small wars always have the potential to widen into big wars.",
+        "start": 7440,
+        "time": 405997,
+        "type": "sentence"
+    }, {
+        "end": 7687,
+        "value": "Also, deterrence is difficult to maintain in a multipolar state system, because power imbalances are commonplace, and when power asymmetries develop, the strong become hard to deter.",
+        "start": 7505,
+        "time": 409704,
+        "type": "sentence"
+    }, {
+        "end": 7823,
+        "value": "Two great powers can join together to attack a third state, as Germany and the Soviet Union did in 1939, when they ganged up on Poland.",
+        "start": 7688,
+        "time": 420249,
+        "type": "sentence"
+    }, {
+        "end": 7976,
+        "value": "Furthermore, a major power might simply bully a weaker power in a one-on-one encounter, using its superior strength to coerce or defeat the minor state.",
+        "start": 7824,
+        "time": 428662,
+        "type": "sentence"
+    }, {
+        "end": 8084,
+        "value": "Germany's actions against Czechoslovakia in the late 1930s provide a good example of this sort of behavior.",
+        "start": 7977,
+        "time": 436988,
+        "type": "sentence"
+    }, {
+        "end": 8297,
+        "value": "Ganging up and bullying are largely unknown in a bipolar system, since with only two great powers dominating center stage, it is impossible to produce the power asymmetries that result in ganging up and bullying.",
+        "start": 8085,
+        "time": 442991,
+        "type": "sentence"
+    }, {
+        "end": 8379,
+        "value": "There is a second reason that deterrence is more problematic under multipolarity.",
+        "start": 8298,
+        "time": 454299,
+        "type": "sentence"
+    }, {
+        "end": 8646,
+        "value": "The resolve of opposing states and also the size and strength of opposing coalitions are hard to calculate in this geometry of power, because the shape of the international order tends to remain in flux, owing to the tendency of coalitions to gain and lose partners.",
+        "start": 8380,
+        "time": 458641,
+        "type": "sentence"
+    }, {
+        "end": 8789,
+        "value": "This can lead aggressors to conclude falsely that they can coerce others by bluffing war, or even achieve outright victory on the battlefield.",
+        "start": 8647,
+        "time": 471719,
+        "type": "sentence"
+    }, {
+        "end": 9008,
+        "value": "For example, Germany was not certain before 1914 that Britain would oppose it if it reached for Continental hegemony, and Germany completely failed to foresee that the United States would eventually move to contain it.",
+        "start": 8790,
+        "time": 478742,
+        "type": "sentence"
+    }, {
+        "end": 9166,
+        "value": "In 1939 Germany hoped that France and Britain would stand aside as it conquered Poland, and again failed to foresee the eventual American entry into the war.",
+        "start": 9009,
+        "time": 490199,
+        "type": "sentence"
+    }, {
+        "end": 9289,
+        "value": "As a result, Germany exaggerated its prospects for success, which undermined deterrence by encouraging German adventurism.",
+        "start": 9167,
+        "time": 499021,
+        "type": "sentence"
+    }, {
+        "end": 9394,
+        "value": "The prospects for peace, however, are not simply a function of the number of great powers in the system.",
+        "start": 9290,
+        "time": 505182,
+        "type": "sentence"
+    }, {
+        "end": 9474,
+        "value": "They are also affected by the relative military strength of those major states.",
+        "start": 9395,
+        "time": 510757,
+        "type": "sentence"
+    }, {
+        "end": 9584,
+        "value": "Bipolar and multipolar systems both are likely to be more peaceful when power is distributed equally in them.",
+        "start": 9475,
+        "time": 514782,
+        "type": "sentence"
+    }, {
+        "end": 9694,
+        "value": "Power inequalities invite war, because they increase an aggressor's prospects for victory on the battlefield.",
+        "start": 9585,
+        "time": 520522,
+        "type": "sentence"
+    }, {
+        "end": 9867,
+        "value": "Most of the general wars that have tormented Europe over the past five centuries have involved one particularly powerful state against the other major powers in the system.",
+        "start": 9695,
+        "time": 526309,
+        "type": "sentence"
+    }, {
+        "end": 10054,
+        "value": "This pattern characterized the wars that grew from the attempts at hegemony by Charles V, Philip II, Louis XIV, Revolutionary and Napoleonic France, Wilhelmine Germany, and Nazi Germany.",
+        "start": 9868,
+        "time": 534823,
+        "type": "sentence"
+    }, {
+        "end": 10178,
+        "value": "Hence the size of the gap in military power between the two leading states in the system is a key determinant of stability.",
+        "start": 10055,
+        "time": 546913,
+        "type": "sentence"
+    }, {
+        "end": 10228,
+        "value": "Small gaps foster peace; larger gaps promote war.",
+        "start": 10179,
+        "time": 552997,
+        "type": "sentence"
+    }, {
+        "end": 10345,
+        "value": "Nuclear weapons seem to be in almost everybody's bad book, but the fact is that they are a powerful force for peace.",
+        "start": 10229,
+        "time": 556563,
+        "type": "sentence"
+    }, {
+        "end": 10445,
+        "value": "Deterrence is most likely to hold when the costs and risks of going to war are unambiguously stark.",
+        "start": 10346,
+        "time": 562660,
+        "type": "sentence"
+    }, {
+        "end": 10508,
+        "value": "The more horrible the prospect of war, the less likely war is.",
+        "start": 10446,
+        "time": 568015,
+        "type": "sentence"
+    }, {
+        "end": 10572,
+        "value": "Deterrence is also more robust when conquest is more difficult.",
+        "start": 10509,
+        "time": 571797,
+        "type": "sentence"
+    }, {
+        "end": 10664,
+        "value": "Potential aggressor states are given pause by the patent futility of attempts at expansion.",
+        "start": 10573,
+        "time": 575440,
+        "type": "sentence"
+    }, {
+        "end": 10708,
+        "value": "Nuclear weapons favor peace on both counts.",
+        "start": 10665,
+        "time": 580276,
+        "type": "sentence"
+    }, {
+        "end": 10811,
+        "value": "They are weapons of mass destruction, and would produce horrendous devastation if used in any numbers.",
+        "start": 10709,
+        "time": 582322,
+        "type": "sentence"
+    }, {
+        "end": 10880,
+        "value": "Moreover, they are more useful for self-defense than for aggression.",
+        "start": 10812,
+        "time": 587695,
+        "type": "sentence"
+    }, {
+        "end": 11070,
+        "value": "If both sides' nuclear arsenals are secure from attack, creating an arrangement of mutual assured destruction, neither side can employ these weapons to gain a meaningful military advantage.",
+        "start": 10881,
+        "time": 591615,
+        "type": "sentence"
+    }, {
+        "end": 11126,
+        "value": "International conflicts then become tests of pure will.",
+        "start": 11071,
+        "time": 601763,
+        "type": "sentence"
+    }, {
+        "end": 11197,
+        "value": "Who would dare to use these weapons of unimaginable destructive power?",
+        "start": 11127,
+        "time": 605023,
+        "type": "sentence"
+    }, {
+        "end": 11320,
+        "value": "Defenders have the advantage here, because defenders usually value their freedom more than aggressors value new conquests.",
+        "start": 11198,
+        "time": 608612,
+        "type": "sentence"
+    }, {
+        "end": 11414,
+        "value": "Nuclear weapons further bolster peace by moving power relations among states toward equality.",
+        "start": 11321,
+        "time": 615205,
+        "type": "sentence"
+    }, {
+        "end": 11597,
+        "value": "States that possess nuclear deterrents can stand up to one another, even if their nuclear arsenals vary greatly in size, as long as both sides have an assured destruction capability.",
+        "start": 11415,
+        "time": 620351,
+        "type": "sentence"
+    }, {
+        "end": 11749,
+        "value": "In addition, mutual assured destruction helps alleviate the vexed problem of miscalculation by leaving little doubt about the relative power of states.",
+        "start": 11598,
+        "time": 630196,
+        "type": "sentence"
+    }, {
+        "end": 11860,
+        "value": "No discussion of the causes of peace in the twentieth century would be complete without a word on nationalism.",
+        "start": 11750,
+        "time": 638202,
+        "type": "sentence"
+    }, {
+        "end": 11933,
+        "value": "With \"nationalism\" as a synonym for \"love of country\" I have no quarrel.",
+        "start": 11861,
+        "time": 643738,
+        "type": "sentence"
+    }, {
+        "end": 12154,
+        "value": "But hypernationalism, the belief that other nations or nation-states are both inferior and threatening, is perhaps the single greatest domestic threat to peace, although it is still not a leading force in world politics.",
+        "start": 11934,
+        "time": 647535,
+        "type": "sentence"
+    }, {
+        "end": 12389,
+        "value": "Hypernationalism arose in the past among European states because most of them were nation-states--states composed mainly of people from a single ethnic group--that existed in an anarchic world, under constant threat from other states.",
+        "start": 12155,
+        "time": 658782,
+        "type": "sentence"
+    }, {
+        "end": 12523,
+        "value": "In such a system people who love their own nation can easily come to be contemptuous of the nationalities inhabiting opposing states.",
+        "start": 12390,
+        "time": 670442,
+        "type": "sentence"
+    }, {
+        "end": 12640,
+        "value": "The problem is worsened when domestic elites demonize a rival nation to drum up support for nationalsecurity policy.",
+        "start": 12524,
+        "time": 677081,
+        "type": "sentence"
+    }, {
+        "end": 12732,
+        "value": "Hypernationalism finds its most fertile soil under military systems relying on mass armies.",
+        "start": 12641,
+        "time": 682684,
+        "type": "sentence"
+    }, {
+        "end": 12869,
+        "value": "These require sacrifices to sustain, and the state is tempted to appeal to nationalist sentiments to mobilize its citizens to make them.",
+        "start": 12733,
+        "time": 688175,
+        "type": "sentence"
+    }, {
+        "end": 13059,
+        "value": "The quickening of hypernationalism is least likely when states can rely on small professional armies, or on complex hightechnology military organizations that operate without vast manpower.",
+        "start": 12870,
+        "time": 695646,
+        "type": "sentence"
+    }, {
+        "end": 13240,
+        "value": "For this reason, nuclear weapons work to dampen nationalism, because they shift the basis of military power away from mass armies and toward smaller, high-technology organizations.",
+        "start": 13060,
+        "time": 705975,
+        "type": "sentence"
+    }, {
+        "end": 13400,
+        "value": "Hypernationalism declined sharply in Europe after 1945, not only because of the nuclear revolution but also because the postwar occupation forces kept it down.",
+        "start": 13241,
+        "time": 716374,
+        "type": "sentence"
+    }, {
+        "end": 13562,
+        "value": "Moreover, the European states, no longer providing their own security, lacked an incentive to whip up nationalism to bolster public support for national defense.",
+        "start": 13401,
+        "time": 726058,
+        "type": "sentence"
+    }, {
+        "end": 13824,
+        "value": "But the decisive change came in the shift of the prime locus of European politics to the United States and the Soviet Union--two states made up of peoples of many different ethnic origins which had not exhibited nationalism of the virulent type found in Europe.",
+        "start": 13563,
+        "time": 735136,
+        "type": "sentence"
+    }, {
+        "end": 13936,
+        "value": "This welcome absence of hypernationalism has been further helped by the greater stability of the postwar order.",
+        "start": 13825,
+        "time": 747816,
+        "type": "sentence"
+    }, {
+        "end": 14034,
+        "value": "With less expectation of war, neither superpower felt compelled to mobilize its citizens for war.",
+        "start": 13937,
+        "time": 753516,
+        "type": "sentence"
+    }, {
+        "end": 14175,
+        "value": "Bipolarity, an equal balance of military power, and nuclear weapons--these, then, are the key elements of my explanation for the Long Peace.",
+        "start": 14035,
+        "time": 758465,
+        "type": "sentence"
+    }, {
+        "end": 14361,
+        "value": "Many thoughtful people have found the bipolar system in Europe odious and have sought to end it by dismantling the Soviet empire in Eastern Europe and diminishing Soviet military power.",
+        "start": 14176,
+        "time": 766855,
+        "type": "sentence"
+    }, {
+        "end": 14753,
+        "value": "Many have also lamented the military equality obtaining between the superpowers; some have decried the indecisive stalemate it produced, recommending instead a search for military superiority; others have lamented the investment of hundreds of billions of dollars to deter a war that never happened, proving not that the investment, though expensive, paid off, but rather that it was wasted.",
+        "start": 14362,
+        "time": 776216,
+        "type": "sentence"
+    }, {
+        "end": 14817,
+        "value": "As for nuclear weapons, well, they are a certifiable Bad Thing.",
+        "start": 14754,
+        "time": 796414,
+        "type": "sentence"
+    }, {
+        "end": 14955,
+        "value": "The odium attached to these props of the postwar order has kept many in the West from recognizing a hard truth: they have kept the peace.",
+        "start": 14818,
+        "time": 800583,
+        "type": "sentence"
+    }, {
+        "end": 14981,
+        "value": "But so much for the past.",
+        "start": 14956,
+        "time": 807501,
+        "type": "sentence"
+    }, {
+        "end": 15021,
+        "value": "What will keep the peace in the future?",
+        "start": 14982,
+        "time": 809297,
+        "type": "sentence"
+    }, {
+        "end": 15317,
+        "value": "Specifically, what new order is likely to emerge if NATO and the Warsaw Pact dissolve, which they will do if the Cold War is really over, and the Soviets withdraw from Eastern Europe and the Americans quit Western Europe, taking their nuclear weapons with them--and should we welcome or fear it?",
+        "start": 15022,
+        "time": 811323,
+        "type": "sentence"
+    }, {
+        "end": 15392,
+        "value": "One dimension of the new European order is certain: it will be multipolar.",
+        "start": 15318,
+        "time": 825950,
+        "type": "sentence"
+    }, {
+        "end": 15468,
+        "value": "Germany, France, Britain, and perhaps Italy will assume major-power status.",
+        "start": 15393,
+        "time": 830085,
+        "type": "sentence"
+    }, {
+        "end": 15712,
+        "value": "The Soviet Union will decline from superpower status, not only because its military is sure to shrink in size but also because moving forces out of Eastern Europe will make it more difficult for the Soviets to project power onto the Continent.",
+        "start": 15469,
+        "time": 834246,
+        "type": "sentence"
+    }, {
+        "end": 15765,
+        "value": "They will, of course, remain a major European power.",
+        "start": 15713,
+        "time": 846780,
+        "type": "sentence"
+    }, {
+        "end": 15906,
+        "value": "The resulting four- or five-power system will suffer the problems endemic to multipolar systems--and will therefore be prone to instability.",
+        "start": 15766,
+        "time": 850470,
+        "type": "sentence"
+    }, {
+        "end": 16005,
+        "value": "The other two dimensions--the distribution of power among the major states and the distribution of",
+        "start": 15907,
+        "time": 857666,
+        "type": "sentence"
+    }, {
+        "end": 16040,
+        "value": "nuclear weapons--are less certain.",
+        "start": 16006,
+        "time": 862249,
+        "type": "sentence"
+    }, {
+        "end": 16142,
+        "value": "Indeed, who gets nuclear weapons is likely to be the most problematic question facing the new Europe.",
+        "start": 16041,
+        "time": 864314,
+        "type": "sentence"
+    }, {
+        "end": 16204,
+        "value": "Three scenarios of the nuclear future in Europe are possible.",
+        "start": 16143,
+        "time": 869829,
+        "type": "sentence"
+    }, {
+        "end": 16344,
+        "value": "The \"Europe Without Nuclear Weapons\" Scenario Many Europeans (and some Americans) seek to eliminate nuclear weapons from Europe altogether.",
+        "start": 16205,
+        "time": 873184,
+        "type": "sentence"
+    }, {
+        "end": 16538,
+        "value": "Fashioning this nuclear-free Europe would require that Britain, France, and the Soviet Union rid themselves of these talismans of their sovereignty--an improbable eventuality, to say the least.",
+        "start": 16345,
+        "time": 880881,
+        "type": "sentence"
+    }, {
+        "end": 16638,
+        "value": "Those who wish for it nevertheless believe that it would be the most peaceful arrangement possible.",
+        "start": 16539,
+        "time": 891053,
+        "type": "sentence"
+    }, {
+        "end": 16761,
+        "value": "In fact a nuclear-free Europe has the distinction of being the most dangerous among the envisionable post-Cold War orders.",
+        "start": 16639,
+        "time": 895580,
+        "type": "sentence"
+    }, {
+        "end": 16954,
+        "value": "The pacifying effects of nuclear weapons--the caution they generate, the security they provide, the rough equality they impose, and the clarity of the relative power they create-would be lost.",
+        "start": 16762,
+        "time": 901857,
+        "type": "sentence"
+    }, {
+        "end": 17082,
+        "value": "Peace would then depend on the other dimensions of the new order--the number of poles and the distribution of power among them.",
+        "start": 16955,
+        "time": 912106,
+        "type": "sentence"
+    }, {
+        "end": 17217,
+        "value": "The geometry of power in Europe would look much as it did between the world wars--a design for tension, crisis, and possibly even war.",
+        "start": 17083,
+        "time": 917723,
+        "type": "sentence"
+    }, {
+        "end": 17323,
+        "value": "The Soviet Union and a unified Germany would likely be the most powerful states in a nuclear-free Europe.",
+        "start": 17218,
+        "time": 925058,
+        "type": "sentence"
+    }, {
+        "end": 17400,
+        "value": "A band of small independent states in Eastern Europe would lie between them.",
+        "start": 17324,
+        "time": 930438,
+        "type": "sentence"
+    }, {
+        "end": 17603,
+        "value": "These minor Eastern European powers would be likely to fear the Soviets as much as the Germans, and thus would probably not be disposed to cooperate with the Soviets to deter possible German aggression.",
+        "start": 17401,
+        "time": 933929,
+        "type": "sentence"
+    }, {
+        "end": 17791,
+        "value": "In fact, this very problem arose in the 1930s, and the past forty-five years of Soviet occupation have surely done little to mitigate Eastern European fears of a Soviet military presence.",
+        "start": 17604,
+        "time": 944103,
+        "type": "sentence"
+    }, {
+        "end": 17940,
+        "value": "Thus scenarios in which Germany uses force against Poland, Czechoslovakia, or even Austria enter the realm of the possible in a nuclear-free Europe.",
+        "start": 17792,
+        "time": 954791,
+        "type": "sentence"
+    }, {
+        "end": 18029,
+        "value": "Then, too, the Soviet withdrawal from Eastern Europe hardly guarantees a permanent exit.",
+        "start": 17941,
+        "time": 963333,
+        "type": "sentence"
+    }, {
+        "end": 18137,
+        "value": "Indeed, the Russian presence in Eastern Europe has surged and ebbed repeatedly over the past few centuries.",
+        "start": 18030,
+        "time": 968666,
+        "type": "sentence"
+    }, {
+        "end": 18324,
+        "value": "In a grave warning, a member of President Mikhail Gorbachev's negotiating team at the recent Washington summit said, \"You have the same explosive mixture you had in Germany in the 1930s.",
+        "start": 18138,
+        "time": 974516,
+        "type": "sentence"
+    }, {
+        "end": 18358,
+        "value": "The humiliation of a great power.",
+        "start": 18325,
+        "time": 984729,
+        "type": "sentence"
+    }, {
+        "end": 18377,
+        "value": "Economic troubles.",
+        "start": 18359,
+        "time": 986895,
+        "type": "sentence"
+    }, {
+        "end": 18402,
+        "value": "The rise of nationalism.",
+        "start": 18378,
+        "time": 988278,
+        "type": "sentence"
+    }, {
+        "end": 18443,
+        "value": "You should not underestimate the danger.",
+        "start": 18403,
+        "time": 990095,
+        "type": "sentence"
+    }, {
+        "end": 18547,
+        "value": "Conflicts between Eastern European states might also threaten the stability of the new European order.",
+        "start": 18445,
+        "time": 992243,
+        "type": "sentence"
+    }, {
+        "end": 18761,
+        "value": "Serious tensions already exist between Hungary and Romania over Romania's treatment of the Hungarian minority in Transylvania, a formerly Hungarian region that still contains roughly two million ethnic Hungarians.",
+        "start": 18548,
+        "time": 997393,
+        "type": "sentence"
+    }, {
+        "end": 18922,
+        "value": "Absent the Soviet occupation of Eastern Europe, Romania and Hungary might have gone to war over this issue by now, and it might bring them to war in the future.",
+        "start": 18762,
+        "time": 1008352,
+        "type": "sentence"
+    }, {
+        "end": 19014,
+        "value": "This is not the only potential danger spot in Eastern Europe as the Soviet empire crumbles.",
+        "start": 18923,
+        "time": 1016585,
+        "type": "sentence"
+    }, {
+        "end": 19069,
+        "value": "The Polish-German border could be a source of trouble.",
+        "start": 19015,
+        "time": 1021656,
+        "type": "sentence"
+    }, {
+        "end": 19118,
+        "value": "Poland and Czechoslovakia have a border dispute.",
+        "start": 19070,
+        "time": 1024587,
+        "type": "sentence"
+    }, {
+        "end": 19292,
+        "value": "If the Soviets allow some of their republics to achieve independence, the Poles and the Romanians may lay claim to territory now in Soviet hands which once belonged to them.",
+        "start": 19119,
+        "time": 1027534,
+        "type": "sentence"
+    }, {
+        "end": 19366,
+        "value": "Looking farther south, civil war in Yugoslavia is a distinct possibility.",
+        "start": 19293,
+        "time": 1035650,
+        "type": "sentence"
+    }, {
+        "end": 19490,
+        "value": "Yugoslavia and Albania might come to blows over Kosovo, a region of Yugoslavia harboring a nationalistic Albanian majority.",
+        "start": 19367,
+        "time": 1040412,
+        "type": "sentence"
+    }, {
+        "end": 19618,
+        "value": "Bulgaria has its own quarrel with Yugoslavia over Macedonia, while Turkey resents Bulgaria's treatment of its Turkish minority.",
+        "start": 19491,
+        "time": 1047917,
+        "type": "sentence"
+    }, {
+        "end": 19787,
+        "value": "The danger that these bitter ethnic and border disputes will erupt into war in a supposedly Edenic nuclear-free Europe is enough to make one nostalgic for the Cold War.",
+        "start": 19619,
+        "time": 1055239,
+        "type": "sentence"
+    }, {
+        "end": 19863,
+        "value": "Warfare in Eastern Europe would cause great suffering to Eastern Europeans.",
+        "start": 19788,
+        "time": 1063809,
+        "type": "sentence"
+    }, {
+        "end": 20089,
+        "value": "It also might widen to include the major powers, especially if disorder created fluid politics that offered opportunities for expanded influence, or threatened defeat for states friendly to one or another of the major powers.",
+        "start": 19864,
+        "time": 1067855,
+        "type": "sentence"
+    }, {
+        "end": 20237,
+        "value": "During the Cold War both superpowers were drawn into Third World conflicts across the globe, often in distant areas of little strategic importance.",
+        "start": 20090,
+        "time": 1079586,
+        "type": "sentence"
+    }, {
+        "end": 20370,
+        "value": "Eastern Europe is directly adjacent to both the Soviet Union and Germany, and it has considerable economic and strategic importance.",
+        "start": 20238,
+        "time": 1087410,
+        "type": "sentence"
+    }, {
+        "end": 20521,
+        "value": "Thus trouble in Eastern Europe would offer even greater temptations to these powers than past conflicts in the Third World offered to the superpowers.",
+        "start": 20371,
+        "time": 1094462,
+        "type": "sentence"
+    }, {
+        "end": 20773,
+        "value": "Furthermore, Eastern European states would have a strong incentive to drag the major powers into their local conflicts, because the results of such conflicts would be largely determined by the relative success of each party in finding external allies.",
+        "start": 20522,
+        "time": 1101807,
+        "type": "sentence"
+    }, {
+        "end": 20893,
+        "value": "It is difficult to predict the precise balance of conventional military power that will emerge in post-Cold War Europe.",
+        "start": 20774,
+        "time": 1114148,
+        "type": "sentence"
+    }, {
+        "end": 20981,
+        "value": "The Soviet Union might recover its strength soon after withdrawing from Eastern Europe.",
+        "start": 20894,
+        "time": 1120128,
+        "type": "sentence"
+    }, {
+        "end": 21036,
+        "value": "In that case Soviet power would outmatch German power.",
+        "start": 20982,
+        "time": 1124531,
+        "type": "sentence"
+    }, {
+        "end": 21168,
+        "value": "But centrifugal national forces might pull the Soviet Union apart, leaving no remnant state that is the equal of a unified Germany.",
+        "start": 21037,
+        "time": 1127815,
+        "type": "sentence"
+    }, {
+        "end": 21282,
+        "value": "Finally, and probably most likely, Germany and the Soviet Union might emerge as powers of roughly equal strength.",
+        "start": 21169,
+        "time": 1135109,
+        "type": "sentence"
+    }, {
+        "end": 21510,
+        "value": "The first two geometries of power, with their marked military inequality between the two leading countries, would be especially worrisome, although there would be cause for concern even if Soviet and German power were balanced.",
+        "start": 21283,
+        "time": 1141593,
+        "type": "sentence"
+    }, {
+        "end": 21768,
+        "value": "A non-nuclear Europe, to round out this catalogue of dangers, would likely be especially disturbed by hypernationalism, since security in such an order would rest on mass armies, which, as we have seen, often cannot be maintained without a mobilized public.",
+        "start": 21511,
+        "time": 1152853,
+        "type": "sentence"
+    }, {
+        "end": 21888,
+        "value": "The problem would probably be most acute in Eastern Europe, with its uncertain borders and irredentist minority groups.",
+        "start": 21769,
+        "time": 1167389,
+        "type": "sentence"
+    }, {
+        "end": 21940,
+        "value": "But there is also potential for trouble in Germany.",
+        "start": 21889,
+        "time": 1173575,
+        "type": "sentence"
+    }, {
+        "end": 22099,
+        "value": "The Germans have generally done an admirable job of combating hypernationalism over the past forty-five years, and of confronting the dark side of their past.",
+        "start": 21941,
+        "time": 1176454,
+        "type": "sentence"
+    }, {
+        "end": 22246,
+        "value": "Nevertheless, a portent like the recent call of some prominent Germans for a return to greater nationalism in historical education is disquieting.",
+        "start": 22100,
+        "time": 1184622,
+        "type": "sentence"
+    }, {
+        "end": 22411,
+        "value": "For all these reasons, it is perhaps just as well that a nuclear-free Europe, much as it may be longed for by so many Europeans, does not appear to be in the cards.",
+        "start": 22247,
+        "time": 1191967,
+        "type": "sentence"
+    }, {
+        "end": 22444,
+        "value": "The \"Current Ownership\" Scenario",
+        "start": 22412,
+        "time": 1200653,
+        "type": "sentence"
+    }, {
+        "end": 22576,
+        "value": "Under this scenario Britain, France, and the Soviet Union retain their nuclear weapons, but no new nuclear powers emerge in Europe.",
+        "start": 22445,
+        "time": 1202207,
+        "type": "sentence"
+    }, {
+        "end": 22756,
+        "value": "This vision of a nuclear-free zone in Central Europe with nuclear weapons remaining on the flanks of the Continent, is also popular in Europe, but it, too, has doubtful prospects.",
+        "start": 22577,
+        "time": 1209932,
+        "type": "sentence"
+    }, {
+        "end": 22799,
+        "value": "Germany will prevent it over the long run.",
+        "start": 22757,
+        "time": 1219900,
+        "type": "sentence"
+    }, {
+        "end": 22980,
+        "value": "The Germans are not likely to be willing to rely on the Poles or the Czechs to provide their forward defense against a possible direct Soviet conventional attack on their homeland.",
+        "start": 22800,
+        "time": 1222410,
+        "type": "sentence"
+    }, {
+        "end": 23111,
+        "value": "Nor are the Germans likely to trust the Soviet Union to refrain for all time from nuclear blackmail against a non-nuclear Germany.",
+        "start": 22981,
+        "time": 1230987,
+        "type": "sentence"
+    }, {
+        "end": 23218,
+        "value": "Hence they will eventually look to nuclear weapons as the surest means of security, just as NATO has done.",
+        "start": 23112,
+        "time": 1237752,
+        "type": "sentence"
+    }, {
+        "end": 23314,
+        "value": "The small states of Eastern Europe will also have strong incentives to acquire nuclear weapons.",
+        "start": 23219,
+        "time": 1243488,
+        "type": "sentence"
+    }, {
+        "end": 23433,
+        "value": "Without them they would be open to nuclear blackmail by the Soviet Union, or by Germany if proliferation stopped them.",
+        "start": 23315,
+        "time": 1248460,
+        "type": "sentence"
+    }, {
+        "end": 23569,
+        "value": "Even if those major powers did not have nuclear arsenals, no Eastern European state could match German or Soviet conventional strength.",
+        "start": 23434,
+        "time": 1254796,
+        "type": "sentence"
+    }, {
+        "end": 23677,
+        "value": "Clearly, then, a scenario in which current ownership continues, without proliferation, seems very unlikely.",
+        "start": 23570,
+        "time": 1262080,
+        "type": "sentence"
+    }, {
+        "end": 23813,
+        "value": "The \"Nuclear Proliferation\" Scenario The most probable scenario in the wake of the Cold War is further nuclear proliferation in Europe.",
+        "start": 23678,
+        "time": 1269190,
+        "type": "sentence"
+    }, {
+        "end": 23938,
+        "value": "This outcome is laden with dangers, but it also might just provide the best hope for maintaining stability on the Continent.",
+        "start": 23814,
+        "time": 1276107,
+        "type": "sentence"
+    }, {
+        "end": 23990,
+        "value": "Everything depends on how proliferation is managed.",
+        "start": 23939,
+        "time": 1282089,
+        "type": "sentence"
+    }, {
+        "end": 24133,
+        "value": "Mismanaged proliferation could produce disaster; well-managed proliferation could produce an order nearly as stable as that of the Long Peace.",
+        "start": 23991,
+        "time": 1285038,
+        "type": "sentence"
+    }, {
+        "end": 24224,
+        "value": "The dangers that could arise from mismanaged proliferation are both profound and numerous.",
+        "start": 24134,
+        "time": 1292746,
+        "type": "sentence"
+    }, {
+        "end": 24477,
+        "value": "There is the danger that the proliferation process itself could give one of the existing nuclear powers a strong incentive to stop a non-nuclear neighbor from joining the club, much as Israel used force to stop Iraq from acquiring a nuclear capability.",
+        "start": 24225,
+        "time": 1297450,
+        "type": "sentence"
+    }, {
+        "end": 24577,
+        "value": "There is the danger that an unstable nuclear competition would emerge among the new nuclear states.",
+        "start": 24478,
+        "time": 1310389,
+        "type": "sentence"
+    }, {
+        "end": 24739,
+        "value": "They might lack the resources to make their nuclear forces invulnerable, which could create first-strike fears and incentives--a recipe for disaster in a crisis.",
+        "start": 24578,
+        "time": 1315259,
+        "type": "sentence"
+    }, {
+        "end": 24964,
+        "value": "Finally, there is the danger that by increasing the number of fingers on the nuclear trigger, proliferation would increase the risk that nuclear weapons would be fired by accident or captured by terrorists or used by madmen.",
+        "start": 24740,
+        "time": 1323385,
+        "type": "sentence"
+    }, {
+        "end": 25073,
+        "value": "These and other dangers of proliferation can be lessened if the current nuclear powers take the right steps.",
+        "start": 24965,
+        "time": 1334700,
+        "type": "sentence"
+    }, {
+        "end": 25143,
+        "value": "To forestall preventive attacks, they can extend security guarantees.",
+        "start": 25074,
+        "time": 1340050,
+        "type": "sentence"
+    }, {
+        "end": 25238,
+        "value": "To help the new nuclear powers secure their deterrents, they can provide technical assistance.",
+        "start": 25144,
+        "time": 1344392,
+        "type": "sentence"
+    }, {
+        "end": 25313,
+        "value": "And they can help to socialize nascent nuclear societies to understand the",
+        "start": 25239,
+        "time": 1349317,
+        "type": "sentence"
+    }, {
+        "end": 25364,
+        "value": "lethal character of the forces they are acquiring.",
+        "start": 25314,
+        "time": 1353090,
+        "type": "sentence"
+    }, {
+        "end": 25430,
+        "value": "This kind of well-managed proliferation could help bolster peace.",
+        "start": 25365,
+        "time": 1355851,
+        "type": "sentence"
+    }, {
+        "end": 25478,
+        "value": "Proliferation should ideally stop with Germany.",
+        "start": 25431,
+        "time": 1359492,
+        "type": "sentence"
+    }, {
+        "end": 25563,
+        "value": "It has a large economic base, and so could afford to sustain a secure nuclear force.",
+        "start": 25479,
+        "time": 1362491,
+        "type": "sentence"
+    }, {
+        "end": 25772,
+        "value": "Moreover, Germany would no doubt feel insecure without nuclear weapons, and if it felt insecure its impressive conventional strength would give it a significant capacity to disturb the tranquillity of Europe.",
+        "start": 25564,
+        "time": 1367272,
+        "type": "sentence"
+    }, {
+        "end": 26011,
+        "value": "But if the broader spread of nuclear weapons proves impossible to prevent without taking extreme steps, the current nuclear powers should let proliferation occur in Eastern Europe while doing all they can to channel it in safe directions.",
+        "start": 25773,
+        "time": 1378172,
+        "type": "sentence"
+    }, {
+        "end": 26077,
+        "value": "However, I am pessimistic that proliferation can be well managed.",
+        "start": 26012,
+        "time": 1389699,
+        "type": "sentence"
+    }, {
+        "end": 26278,
+        "value": "The members of the nuclear club are likely to resist proliferation, but they cannot easily manage this tricky process while at the same time resisting it--and they will have several motives to resist.",
+        "start": 26078,
+        "time": 1393593,
+        "type": "sentence"
+    }, {
+        "end": 26498,
+        "value": "The established nuclear powers will be exceedingly chary of helping the new nuclear powers build secure deterrents, simply because it goes against the grain of state behavior to share military secrets with other states.",
+        "start": 26279,
+        "time": 1403432,
+        "type": "sentence"
+    }, {
+        "end": 26642,
+        "value": "After all, knowledge of sensitive military technology could be turned against the donor state if that technology were passed on to adversaries.",
+        "start": 26499,
+        "time": 1414281,
+        "type": "sentence"
+    }, {
+        "end": 26818,
+        "value": "Furthermore, proliferation in Europe will undermine the legitimacy of the 1968 Nuclear Non-Proliferation Treaty, and this could open the floodgates of proliferation worldwide.",
+        "start": 26643,
+        "time": 1421348,
+        "type": "sentence"
+    }, {
+        "end": 26986,
+        "value": "The current nuclear powers will not want that to happen, and so they will probably spend their energy trying to thwart proliferation, rather than seeking to manage it.",
+        "start": 26819,
+        "time": 1431358,
+        "type": "sentence"
+    }, {
+        "end": 27084,
+        "value": "The best time for proliferation to occur would be during a period of relative international calm.",
+        "start": 26987,
+        "time": 1439183,
+        "type": "sentence"
+    }, {
+        "end": 27281,
+        "value": "Proliferation in the midst of a crisis would obviously be dangerous, since states in conflict with an emerging nuclear power would then have a powerful incentive to interrupt the process by force.",
+        "start": 27085,
+        "time": 1444131,
+        "type": "sentence"
+    }, {
+        "end": 27589,
+        "value": "However, the opposition to proliferation by citizens of the potential nuclear powers would be so vociferous, and the external resistance from the nuclear club would be so great, that it might take a crisis to make those powers willing to pay the domestic and international costs of building a nuclear force.",
+        "start": 27282,
+        "time": 1454025,
+        "type": "sentence"
+    }, {
+        "end": 27722,
+        "value": "All of which means that proliferation is likely to occur under international conditions that virtually ensure it will be mismanaged.",
+        "start": 27590,
+        "time": 1469780,
+        "type": "sentence"
+    }, {
+        "end": 27739,
+        "value": "Is War Obsolete?",
+        "start": 27723,
+        "time": 1476201,
+        "type": "sentence"
+    }, {
+        "end": 27835,
+        "value": "Many students of European politics will reject my pessimistic analysis of post-Cold War Europe.",
+        "start": 27740,
+        "time": 1477554,
+        "type": "sentence"
+    }, {
+        "end": 27957,
+        "value": "They will say that a multipolar Europe, with or without nuclear weapons, will be no less peaceful than the present order.",
+        "start": 27836,
+        "time": 1483134,
+        "type": "sentence"
+    }, {
+        "end": 28095,
+        "value": "Three specific scenarios for a peaceful future have been advanced, each of which rests on a well-known theory of international relations.",
+        "start": 27958,
+        "time": 1488927,
+        "type": "sentence"
+    }, {
+        "end": 28154,
+        "value": "However, each of these \"soft\" theories of peace is flawed.",
+        "start": 28096,
+        "time": 1496164,
+        "type": "sentence"
+    }, {
+        "end": 28310,
+        "value": "Under the first optimistic scenario, a non-nuclear Europe would remain peaceful because Europeans recognize that even a conventional war would be horrific.",
+        "start": 28155,
+        "time": 1499441,
+        "type": "sentence"
+    }, {
+        "end": 28376,
+        "value": "Sobered by history, national leaders will take care to avoid war.",
+        "start": 28311,
+        "time": 1507683,
+        "type": "sentence"
+    }, {
+        "end": 28420,
+        "value": "This scenario rests on the \"obsolescence of",
+        "start": 28377,
+        "time": 1511750,
+        "type": "sentence"
+    }, {
+        "end": 28557,
+        "value": "war\" theory, which posits that modern conventional war had become so deadly by 1945 as to be unthinkable as an instrument of statecraft.",
+        "start": 28421,
+        "time": 1513508,
+        "type": "sentence"
+    }, {
+        "end": 28587,
+        "value": "War is yesterday's nightmare.",
+        "start": 28558,
+        "time": 1521508,
+        "type": "sentence"
+    }, {
+        "end": 28798,
+        "value": "The fact that the Second World War occurred casts doubt on this theory: if any war could have persuaded Europeans to forswear conventional war, it should have been the First World War, with its vast casualties.",
+        "start": 28588,
+        "time": 1523447,
+        "type": "sentence"
+    }, {
+        "end": 28914,
+        "value": "The key flaw in this theory is the assumption that all conventional wars will be long and bloody wars of attrition.",
+        "start": 28799,
+        "time": 1534467,
+        "type": "sentence"
+    }, {
+        "end": 29188,
+        "value": "Proponents ignore the evidence of several wars since 1945, as well as several campaign-ending battles of the Second World War, that it is still possible to gain a quick and decisive victory on the conventional battlefield and avoid the devastation of a protracted conflict.",
+        "start": 28915,
+        "time": 1539997,
+        "type": "sentence"
+    }, {
+        "end": 29361,
+        "value": "Conventional wars can be won rather cheaply; nuclear war cannot be, because neither side can escape devastation by the other, regardless of what happens on the battlefield.",
+        "start": 29189,
+        "time": 1554682,
+        "type": "sentence"
+    }, {
+        "end": 29486,
+        "value": "Thus the incentives to avoid war are of another order of intensity in a nuclear world than they are in a conventional world.",
+        "start": 29362,
+        "time": 1564198,
+        "type": "sentence"
+    }, {
+        "end": 29534,
+        "value": "There are several other flaws in this scenario.",
+        "start": 29487,
+        "time": 1570301,
+        "type": "sentence"
+    }, {
+        "end": 29620,
+        "value": "There is no systematic evidence demonstrating that Europeans believe war is obsolete.",
+        "start": 29535,
+        "time": 1572744,
+        "type": "sentence"
+    }, {
+        "end": 29692,
+        "value": "The Romanians and the Hungarians don't seem to have gotten the message.",
+        "start": 29621,
+        "time": 1577373,
+        "type": "sentence"
+    }, {
+        "end": 29800,
+        "value": "However, even if it were widely believed in Europe that war is no longer thinkable, attitudes could change.",
+        "start": 29693,
+        "time": 1581029,
+        "type": "sentence"
+    }, {
+        "end": 29962,
+        "value": "Public opinion on national-security issues is notoriously fickle and responsive to manipulation by elites as well as to changes in the international environment.",
+        "start": 29801,
+        "time": 1586546,
+        "type": "sentence"
+    }, {
+        "end": 30151,
+        "value": "An end to the Cold War, as we have seen, will be accompanied by a sea change in the geometry of power in Europe, which will surely alter European thinking about questions of war and peace.",
+        "start": 29963,
+        "time": 1595226,
+        "type": "sentence"
+    }, {
+        "end": 30390,
+        "value": "Is it not possible, for example, that German thinking about the benefits of controlling Eastern Europe will change markedly once American forces are withdrawn from Central Europe and the Germans are left to provide for their own security?",
+        "start": 30152,
+        "time": 1605245,
+        "type": "sentence"
+    }, {
+        "end": 30564,
+        "value": "Is it not possible that they would countenance a conventional war against a substantially weaker Eastern European state to enhance their position vis-a-vis the Soviet Union?",
+        "start": 30391,
+        "time": 1617346,
+        "type": "sentence"
+    }, {
+        "end": 30646,
+        "value": "Finally, only one country need decide that war is thinkable to make war possible.",
+        "start": 30565,
+        "time": 1625809,
+        "type": "sentence"
+    }, {
+        "end": 30679,
+        "value": "Is Prosperity the Path to Peace?",
+        "start": 30647,
+        "time": 1630627,
+        "type": "sentence"
+    }, {
+        "end": 30874,
+        "value": "Proponents of the second optimistic scenario base their optimism about the future of Europe on the unified European market coming in 1992--the realization of the dream of the European Community.",
+        "start": 30680,
+        "time": 1632796,
+        "type": "sentence"
+    }, {
+        "end": 31032,
+        "value": "A strong EC, they argue, ensures that the European economy will remain open and prosperous, which will keep the European states cooperating with one another.",
+        "start": 30875,
+        "time": 1643113,
+        "type": "sentence"
+    }, {
+        "end": 31064,
+        "value": "Prosperity will make for peace.",
+        "start": 31033,
+        "time": 1652023,
+        "type": "sentence"
+    }, {
+        "end": 31193,
+        "value": "The threat of an aggressive Germany will be removed by enclosing the newly unified German state in the benign embrace of the EC.",
+        "start": 31065,
+        "time": 1654082,
+        "type": "sentence"
+    }, {
+        "end": 31273,
+        "value": "Even Eastern Europe and the Soviet Union can eventually be brought into the EC.",
+        "start": 31194,
+        "time": 1660715,
+        "type": "sentence"
+    }, {
+        "end": 31354,
+        "value": "Peace and prosperity will then extend their sway from the Atlantic to the Urals.",
+        "start": 31274,
+        "time": 1664365,
+        "type": "sentence"
+    }, {
+        "end": 31614,
+        "value": "This scenario is based on the theory of economic liberalism, which assumes that states are primarily motivated by the desire to achieve prosperity and that leaders place the material welfare of their publics above all other considerations, including security.",
+        "start": 31355,
+        "time": 1668511,
+        "type": "sentence"
+    }, {
+        "end": 31705,
+        "value": "Stability flows not from military power but from the creation of a liberal economic order.",
+        "start": 31615,
+        "time": 1681674,
+        "type": "sentence"
+    }, {
+        "end": 31790,
+        "value": "A liberal economic order works in several ways to enhance peace and dampen conflict.",
+        "start": 31706,
+        "time": 1686203,
+        "type": "sentence"
+    }, {
+        "end": 31909,
+        "value": "In the first place, it requires significant political cooperation to make the trading system work--make states richer.",
+        "start": 31791,
+        "time": 1690811,
+        "type": "sentence"
+    }, {
+        "end": 32005,
+        "value": "The more prosperous states grow, the greater their incentive for further political cooperation.",
+        "start": 31910,
+        "time": 1697132,
+        "type": "sentence"
+    }, {
+        "end": 32092,
+        "value": "A benevolent spiral relationship sets in between political cooperation and prosperity.",
+        "start": 32006,
+        "time": 1702307,
+        "type": "sentence"
+    }, {
+        "end": 32234,
+        "value": "Second, a liberal economic order fosters economic interdependence, a situation in which states are mutually vulnerable in the economic realm.",
+        "start": 32093,
+        "time": 1707188,
+        "type": "sentence"
+    }, {
+        "end": 32407,
+        "value": "When interdependence is high, the theory holds, there is less temptation to cheat or behave aggressively toward other states, because all states can retaliate economically.",
+        "start": 32235,
+        "time": 1715360,
+        "type": "sentence"
+    }, {
+        "end": 32626,
+        "value": "Finally, some theorists argue, an international institution like the EC will, with everincreasing political cooperation, become so powerful that it will take on a life of its own, eventually evolving into a superstate.",
+        "start": 32408,
+        "time": 1724614,
+        "type": "sentence"
+    }, {
+        "end": 32701,
+        "value": "In short, Mrs. Thatcher's presentiments about the EC are absolutely right.",
+        "start": 32627,
+        "time": 1737151,
+        "type": "sentence"
+    }, {
+        "end": 32779,
+        "value": "This theory has one grave flaw: the main assumption underpinning it is wrong.",
+        "start": 32702,
+        "time": 1741842,
+        "type": "sentence"
+    }, {
+        "end": 32851,
+        "value": "States are not primarily motivated by the desire to achieve prosperity.",
+        "start": 32780,
+        "time": 1746096,
+        "type": "sentence"
+    }, {
+        "end": 33080,
+        "value": "Although economic calculations are hardly trivial to them, states operate in both an international political and an international economic environment, and the former dominates the latter when the two systems come into conflict.",
+        "start": 32852,
+        "time": 1750240,
+        "type": "sentence"
+    }, {
+        "end": 33173,
+        "value": "Survival in an anarchic international political system is the highest goal a state can have.",
+        "start": 33081,
+        "time": 1761539,
+        "type": "sentence"
+    }, {
+        "end": 33308,
+        "value": "Proponents of economic liberalism largely ignore the effects of anarchy on state behavior and concentrate instead on economic motives.",
+        "start": 33174,
+        "time": 1766085,
+        "type": "sentence"
+    }, {
+        "end": 33392,
+        "value": "When this omission is corrected, however, their arguments collapse for two reasons.",
+        "start": 33309,
+        "time": 1773416,
+        "type": "sentence"
+    }, {
+        "end": 33530,
+        "value": "Competition for security makes it difficult for states to cooperate, which, according to the theory of economic liberalism, they must do.",
+        "start": 33393,
+        "time": 1778179,
+        "type": "sentence"
+    }, {
+        "end": 33626,
+        "value": "When security is scarce, states become more concerned about relative than about absolute gains.",
+        "start": 33531,
+        "time": 1786075,
+        "type": "sentence"
+    }, {
+        "end": 33677,
+        "value": "They ask of an exchange not \"Will both of us gain?",
+        "start": 33627,
+        "time": 1791475,
+        "type": "sentence"
+    }, {
+        "end": 33703,
+        "value": "but \"Who will gain more?",
+        "start": 33679,
+        "time": 1794183,
+        "type": "sentence"
+    }, {
+        "end": 33943,
+        "value": "They reject even cooperation that will yield an absolute economic gain if the other state will gain more, from fear that the other might convert its gain to military strength, and then use this strength to win by coercion in later rounds.",
+        "start": 33705,
+        "time": 1795599,
+        "type": "sentence"
+    }, {
+        "end": 34024,
+        "value": "Cooperation is much easier to achieve if states worry only about absolute gains.",
+        "start": 33944,
+        "time": 1807692,
+        "type": "sentence"
+    }, {
+        "end": 34170,
+        "value": "The goal, then, is simply to ensure that the overall economic pie is expanding and that each state is getting at least some part of the increase.",
+        "start": 34025,
+        "time": 1812263,
+        "type": "sentence"
+    }, {
+        "end": 34422,
+        "value": "However, anarchy guarantees that security will often be scarce; this heightens states' concerns about relative gains, which makes cooperation difficult unless the pie can be finely sliced to reflect, and thus not disturb, the current balance of power.",
+        "start": 34171,
+        "time": 1819865,
+        "type": "sentence"
+    }, {
+        "end": 34633,
+        "value": "Interdependence, moreover, is as likely to lead to conflict as to cooperation, because states will struggle to escape the vulnerability that interdependence creates, in order to bolster their national security.",
+        "start": 34423,
+        "time": 1833931,
+        "type": "sentence"
+    }, {
+        "end": 34830,
+        "value": "In time of crisis or war, states that depend on others for critical economic supplies will fear cutoff or blackmail; they may well respond by trying to seize the source of supply by force of arms.",
+        "start": 34634,
+        "time": 1844583,
+        "type": "sentence"
+    }, {
+        "end": 34965,
+        "value": "There are numerous historical examples of states' pursuing aggressive military policies for the purpose of achieving economic autarky.",
+        "start": 34831,
+        "time": 1855630,
+        "type": "sentence"
+    }, {
+        "end": 35030,
+        "value": "One thinks of both Japan and Germany during the interwar period.",
+        "start": 34966,
+        "time": 1862501,
+        "type": "sentence"
+    }, {
+        "end": 35182,
+        "value": "And one recalls that during the Arab oil embargo of the early 1970s there was much talk in America about using military force to seize Arab oil fields.",
+        "start": 35031,
+        "time": 1866009,
+        "type": "sentence"
+    }, {
+        "end": 35286,
+        "value": "In twentieth-century Europe two periods saw liberal economic order with high levels of interdependence.",
+        "start": 35183,
+        "time": 1873945,
+        "type": "sentence"
+    }, {
+        "end": 35387,
+        "value": "According to the theory of economic liberalism, stability should have obtained during those periods.",
+        "start": 35287,
+        "time": 1879138,
+        "type": "sentence"
+    }, {
+        "end": 35399,
+        "value": "It did not.",
+        "start": 35388,
+        "time": 1884324,
+        "type": "sentence"
+    }, {
+        "end": 35457,
+        "value": "The first case clearly contradicts the economic liberals.",
+        "start": 35400,
+        "time": 1885389,
+        "type": "sentence"
+    }, {
+        "end": 35566,
+        "value": "The years from 1890 to 1914 were probably the time of greatest economic interdependence in Europe's history.",
+        "start": 35458,
+        "time": 1888712,
+        "type": "sentence"
+    }, {
+        "end": 35656,
+        "value": "Yet those years of prosperity were all the time making hideously for the First World War.",
+        "start": 35567,
+        "time": 1895222,
+        "type": "sentence"
+    }, {
+        "end": 35819,
+        "value": "The second case covers the Cold War years, during which there has been much interdependence among the EC states, and relations among them have been very peaceful.",
+        "start": 35657,
+        "time": 1900003,
+        "type": "sentence"
+    }, {
+        "end": 35903,
+        "value": "This case, not surprisingly, is the centerpiece of the economic liberals' argument.",
+        "start": 35820,
+        "time": 1908327,
+        "type": "sentence"
+    }, {
+        "end": 36085,
+        "value": "We certainly see a correlation in this period between interdependence and stability but that does not-mean that interdependence has caused cooperation among the Western democracies.",
+        "start": 35904,
+        "time": 1913410,
+        "type": "sentence"
+    }, {
+        "end": 36237,
+        "value": "More likely the Cold War was the prime cause of cooperation among the Western democracies, and the main reason that intra-EC relations have flourished.",
+        "start": 36086,
+        "time": 1922155,
+        "type": "sentence"
+    }, {
+        "end": 36360,
+        "value": "A powerful and potentially dangerous Soviet Union forced the Western democracies to band together to meet a common threat.",
+        "start": 36238,
+        "time": 1930129,
+        "type": "sentence"
+    }, {
+        "end": 36560,
+        "value": "This threat muted concerns about relative gains arising from economic cooperation among the EC states by giving each Western democracy a vested interest in seeing its alliance partners grow powerful.",
+        "start": 36361,
+        "time": 1936553,
+        "type": "sentence"
+    }, {
+        "end": 36610,
+        "value": "Each increment of power helped deter the Soviets.",
+        "start": 36561,
+        "time": 1946895,
+        "type": "sentence"
+    }, {
+        "end": 36780,
+        "value": "Moreover, they all had a powerful incentive to avoid conflict with one another while the Soviet Union loomed to the East, ready to harvest the grain of Western quarrels.",
+        "start": 36611,
+        "time": 1949047,
+        "type": "sentence"
+    }, {
+        "end": 36963,
+        "value": "In addition, America's hegemonic position in NATO, the military counterpart to the EC, mitigated the effects of anarchy on the Western democracies and induced cooperation among them.",
+        "start": 36781,
+        "time": 1957249,
+        "type": "sentence"
+    }, {
+        "end": 37094,
+        "value": "America not only provided protection against the Soviet threat; it also guaranteed that no EC state would aggress against another.",
+        "start": 36964,
+        "time": 1968006,
+        "type": "sentence"
+    }, {
+        "end": 37239,
+        "value": "For example, France did not have to fear Germany as it re-armed, because the American presence in Germany meant that the Germans were contained.",
+        "start": 37095,
+        "time": 1974970,
+        "type": "sentence"
+    }, {
+        "end": 37470,
+        "value": "With the United States serving as a night watchman, fears about relative gains among the Western European states were mitigated, and furthermore, those states were willing to allow their economies to become tightly interdependent.",
+        "start": 37240,
+        "time": 1982590,
+        "type": "sentence"
+    }, {
+        "end": 37621,
+        "value": "Take away the present Soviet threat to Western Europe, send the American forces home, and relations among the EC states will be fundamentally altered.",
+        "start": 37471,
+        "time": 1994310,
+        "type": "sentence"
+    }, {
+        "end": 37823,
+        "value": "Without a common Soviet threat or an American night watchman, Western European states will do what they did for centuries before the onset of the Cold War--look upon one another with abiding suspicion.",
+        "start": 37622,
+        "time": 2002820,
+        "type": "sentence"
+    }, {
+        "end": 37941,
+        "value": "Consequently, they will worry about imbalances in gains and about the loss of autonomy that results from cooperation.",
+        "start": 37824,
+        "time": 2013102,
+        "type": "sentence"
+    }, {
+        "end": 38027,
+        "value": "Cooperation in this new order will be more difficult than it was during the Cold War.",
+        "start": 37942,
+        "time": 2019315,
+        "type": "sentence"
+    }, {
+        "end": 38057,
+        "value": "Conflict will be more likely.",
+        "start": 38028,
+        "time": 2023629,
+        "type": "sentence"
+    }, {
+        "end": 38204,
+        "value": "In sum, there are good reasons for being skeptical about the claim that a more powerful EC can provide the basis for peace in a multipolar Europe.",
+        "start": 38058,
+        "time": 2025505,
+        "type": "sentence"
+    }, {
+        "end": 38238,
+        "value": "Do Democracies Really Love Peace?",
+        "start": 38205,
+        "time": 2032351,
+        "type": "sentence"
+    }, {
+        "end": 38422,
+        "value": "Under the third scenario war is avoided because many European states have become democratic since the early twentieth century, and liberal democracies simply do not fight one another.",
+        "start": 38239,
+        "time": 2034506,
+        "type": "sentence"
+    }, {
+        "end": 38544,
+        "value": "At a minimum, the presence of liberal democracies in Western Europe renders that half of Europe free from armed conflict.",
+        "start": 38423,
+        "time": 2044140,
+        "type": "sentence"
+    }, {
+        "end": 38634,
+        "value": "At a maximum, democracy spreads to Eastern Europe and the Soviet Union, bolstering peace.",
+        "start": 38545,
+        "time": 2050492,
+        "type": "sentence"
+    }, {
+        "end": 38765,
+        "value": "The idea that peace is cognate with democracy is a vision of international relations shared by both liberals and neoconservatives.",
+        "start": 38635,
+        "time": 2056123,
+        "type": "sentence"
+    }, {
+        "end": 38827,
+        "value": "This scenario rests on the \"peace-loving democracies\" theory.",
+        "start": 38766,
+        "time": 2062969,
+        "type": "sentence"
+    }, {
+        "end": 38858,
+        "value": "Two arguments are made for it.",
+        "start": 38828,
+        "time": 2066483,
+        "type": "sentence"
+    }, {
+        "end": 39066,
+        "value": "First, some claim that authoritarian leaders are more likely to go to war than leaders of democracies, because authoritarian leaders are not accountable to their publics, which carry the main burdens of war.",
+        "start": 38859,
+        "time": 2068380,
+        "type": "sentence"
+    }, {
+        "end": 39171,
+        "value": "In a democracy the citizenry which pays the price of war, has a greater say in what the government does.",
+        "start": 39067,
+        "time": 2079080,
+        "type": "sentence"
+    }, {
+        "end": 39338,
+        "value": "The people, so the argument goes, are more hesitant to start trouble, because it is they who must pay the bloody price; hence the greater their power, the fewer wars.",
+        "start": 39172,
+        "time": 2084612,
+        "type": "sentence"
+    }, {
+        "end": 39517,
+        "value": "The second argument rests on the claim that the citizens of liberal democracies respect popular democratic rights--those of their countrymen, and those of people in other states.",
+        "start": 39339,
+        "time": 2093875,
+        "type": "sentence"
+    }, {
+        "end": 39658,
+        "value": "They view democratic governments as more legitimate than others, and so are loath to impose a foreign regime on a democratic state by force.",
+        "start": 39518,
+        "time": 2102475,
+        "type": "sentence"
+    }, {
+        "end": 39783,
+        "value": "Thus an inhibition on war missing from other international relationships is introduced when two democracies face each other.",
+        "start": 39659,
+        "time": 2108811,
+        "type": "sentence"
+    }, {
+        "end": 40015,
+        "value": "The first of these arguments is flawed because it is not possible to sustain the claim that the people in a democracy are especially sensitive to the costs of war and therefore less willing than authoritarian leaders to fight wars.",
+        "start": 39784,
+        "time": 2114950,
+        "type": "sentence"
+    }, {
+        "end": 40192,
+        "value": "In fact the historical record shows that democracies are every bit as likely to fight wars as are authoritarian states, though admittedly, thus far, not with other democracies.",
+        "start": 40016,
+        "time": 2126171,
+        "type": "sentence"
+    }, {
+        "end": 40387,
+        "value": "Furthermore, mass publics, whether in a democracy or not, can become deeply imbued with nationalistic or religious fervor, making them prone to support aggression and quite indifferent to costs.",
+        "start": 40193,
+        "time": 2136084,
+        "type": "sentence"
+    }, {
+        "end": 40506,
+        "value": "The widespread public support in post-Revolutionary France for Napoleon's wars is just one example of this phenomenon.",
+        "start": 40388,
+        "time": 2146657,
+        "type": "sentence"
+    }, {
+        "end": 40659,
+        "value": "At the same time, authoritarian leaders are often fearful of going to war, because war tends to unleash democratic forces that can undermine the regime.",
+        "start": 40507,
+        "time": 2153401,
+        "type": "sentence"
+    }, {
+        "end": 40751,
+        "value": "In short, war can impose high costs on authoritarian leaders as well as on their citizenry.",
+        "start": 40660,
+        "time": 2161974,
+        "type": "sentence"
+    }, {
+        "end": 40980,
+        "value": "The second argument, which emphasizes the transnational respect for democratic rights among democracies, rests on a secondary factor that is generally overridden by other factors such as nationalism and religious fundamentalism.",
+        "start": 40752,
+        "time": 2167206,
+        "type": "sentence"
+    }, {
+        "end": 41034,
+        "value": "Moreover, there is another problem with the argument.",
+        "start": 40981,
+        "time": 2179497,
+        "type": "sentence"
+    }, {
+        "end": 41185,
+        "value": "The possibility always exists that a democracy, especially the kind of fledgling democracy emerging in Eastern Europe, will revert to an authoritarian",
+        "start": 41035,
+        "time": 2182551,
+        "type": "sentence"
+    }, {
+        "end": 41192,
+        "value": "state.",
+        "start": 41186,
+        "time": 2190052,
+        "type": "sentence"
+    }, {
+        "end": 41343,
+        "value": "This threat of backsliding means that one democratic state can never be sure that another democratic state will not turn on it sometime in the future.",
+        "start": 41193,
+        "time": 2190907,
+        "type": "sentence"
+    }, {
+        "end": 41541,
+        "value": "Liberal democracies must therefore worry about relative power among themselves, which is tantamount to saying that each has an incentive to consider aggression against another to forestall trouble.",
+        "start": 41344,
+        "time": 2198040,
+        "type": "sentence"
+    }, {
+        "end": 41623,
+        "value": "Lamentably, it is not possible for even liberal democracies to transcend anarchy.",
+        "start": 41542,
+        "time": 2207543,
+        "type": "sentence"
+    }, {
+        "end": 41776,
+        "value": "Problems with the deductive logic aside, at first glance the historical record seems to offer strong support for the theory of peace-loving democracies.",
+        "start": 41624,
+        "time": 2212453,
+        "type": "sentence"
+    }, {
+        "end": 41852,
+        "value": "It appears that no liberal democracies have ever fought against each other.",
+        "start": 41777,
+        "time": 2220571,
+        "type": "sentence"
+    }, {
+        "end": 41909,
+        "value": "Evidentiary problems, however, leave the issue in doubt.",
+        "start": 41853,
+        "time": 2224399,
+        "type": "sentence"
+    }, {
+        "end": 42091,
+        "value": "First, democracies have been few in number over the past two centuries, and thus there have not been many cases in which two democracies were in a position to fight with each other.",
+        "start": 41910,
+        "time": 2228231,
+        "type": "sentence"
+    }, {
+        "end": 42225,
+        "value": "Three prominent cases are usually cited: Britain and the United States ; Britain and France ; and the Western democracies since 1945.",
+        "start": 42092,
+        "time": 2237505,
+        "type": "sentence"
+    }, {
+        "end": 42434,
+        "value": "Second, there are other persuasive explanations for why war did not occur in those three cases, and these competing explanations must be ruled out before the theory of peaceloving democracies can be accepted.",
+        "start": 42226,
+        "time": 2245791,
+        "type": "sentence"
+    }, {
+        "end": 42653,
+        "value": "Whereas relations between the British and the Americans during the nineteenth century were hardly blissful, in the twentieth century they have been quite harmonious, and thus fit closely with the theory's expectations.",
+        "start": 42435,
+        "time": 2256717,
+        "type": "sentence"
+    }, {
+        "end": 42863,
+        "value": "That harmony, however, can easily be explained by common threats that forced Britain and the United States to work together--a serious German threat in the first part of the century, and later a Soviet threat.",
+        "start": 42654,
+        "time": 2266512,
+        "type": "sentence"
+    }, {
+        "end": 42936,
+        "value": "The same basic argument applies to relations between France and Britain.",
+        "start": 42864,
+        "time": 2277308,
+        "type": "sentence"
+    }, {
+        "end": 43114,
+        "value": "Although they were not on the best of terms during most of the nineteenth century their relations improved significantly around the turn of the century with the rise of Germany.",
+        "start": 42937,
+        "time": 2281344,
+        "type": "sentence"
+    }, {
+        "end": 43241,
+        "value": "Finally, as noted above, the Soviet threat goes far in explaining the absence of war among the Western democracies since 1945.",
+        "start": 43115,
+        "time": 2289375,
+        "type": "sentence"
+    }, {
+        "end": 43372,
+        "value": "Third, several democracies have come close to fighting each other, suggesting that the absence of war may be due simply to chance.",
+        "start": 43242,
+        "time": 2297425,
+        "type": "sentence"
+    }, {
+        "end": 43441,
+        "value": "France and Britain approached war during the Fashoda crisis of 1898.",
+        "start": 43373,
+        "time": 2304684,
+        "type": "sentence"
+    }, {
+        "end": 43529,
+        "value": "France and Weimar Germany might have come to blows over the Rhineland during the 1920s.",
+        "start": 43442,
+        "time": 2308994,
+        "type": "sentence"
+    }, {
+        "end": 43710,
+        "value": "The United States has clashed with a number of elected governments in the Third World during the Cold War, including the Allende regime in Chile and the Arbenz regime in Guatemala.",
+        "start": 43530,
+        "time": 2313639,
+        "type": "sentence"
+    }, {
+        "end": 43861,
+        "value": "Last, some would classify Wilhelmine Germany as a democracy, or at least a quasidemocracy; if so, the First World War becomes a war among democracies.",
+        "start": 43711,
+        "time": 2322866,
+        "type": "sentence"
+    }, {
+        "end": 44035,
+        "value": "While the spread of democracy across Europe has great potential benefits for human rights, it will not guarantee peaceful relations among the states of post-Cold War Europe.",
+        "start": 43862,
+        "time": 2332615,
+        "type": "sentence"
+    }, {
+        "end": 44092,
+        "value": "Most Americans will find this argument counterintuitive.",
+        "start": 44036,
+        "time": 2341611,
+        "type": "sentence"
+    }, {
+        "end": 44214,
+        "value": "They see the United States as fundamentally peace-loving, and they ascribe this peacefulness to its democratic character.",
+        "start": 44093,
+        "time": 2344331,
+        "type": "sentence"
+    }, {
+        "end": 44368,
+        "value": "From this they generalize that democracies are more peaceful than authoritarian states, which leads them to conclude that the complete democratization of",
+        "start": 44215,
+        "time": 2350460,
+        "type": "sentence"
+    }, {
+        "end": 44418,
+        "value": "Europe would largely eliminate the threat of war.",
+        "start": 44369,
+        "time": 2357314,
+        "type": "sentence"
+    }, {
+        "end": 44512,
+        "value": "This view of international politics is likely to be repudiated by the events of coming years.",
+        "start": 44419,
+        "time": 2359893,
+        "type": "sentence"
+    }, {
+        "end": 44602,
+        "value": "Missing the Cold War The implications of my analysis are straightforward, if paradoxical.",
+        "start": 44513,
+        "time": 2364821,
+        "type": "sentence"
+    }, {
+        "end": 44664,
+        "value": "Developments that threaten to end the Cold War are dangerous.",
+        "start": 44603,
+        "time": 2370000,
+        "type": "sentence"
+    }, {
+        "end": 44721,
+        "value": "The West has an interest in maintaining peace in Europe.",
+        "start": 44665,
+        "time": 2373078,
+        "type": "sentence"
+    }, {
+        "end": 44853,
+        "value": "It therefore has an interest in maintaining the Cold War order, and hence has an interest in continuing the Cold War confrontation.",
+        "start": 44722,
+        "time": 2375864,
+        "type": "sentence"
+    }, {
+        "end": 45049,
+        "value": "The Cold War antagonism could be continued at lower levels of East-West tension than have prevailed in the past, but a complete end to the Cold War would create more problems than it would solve.",
+        "start": 44854,
+        "time": 2382526,
+        "type": "sentence"
+    }, {
+        "end": 45118,
+        "value": "The fate of the Cold War is mainly in the hands of the Soviet Union.",
+        "start": 45050,
+        "time": 2392378,
+        "type": "sentence"
+    }, {
+        "end": 45271,
+        "value": "The Soviet Union is the only superpower that can seriously threaten to overrun Europe, and the Soviet threat provides the glue that holds NATO together.",
+        "start": 45119,
+        "time": 2395950,
+        "type": "sentence"
+    }, {
+        "end": 45544,
+        "value": "Take away that offensive threat and the United States is likely to abandon the Continent; the defensive alliance it has headed for forty years may well then disintegrate, bringing an end to the bipolar order that has kept the peace of Europe for the past forty-five years.",
+        "start": 45272,
+        "time": 2403833,
+        "type": "sentence"
+    }, {
+        "end": 45631,
+        "value": "There is little the Americans or the West Europeans can do to perpetuate the Cold War.",
+        "start": 45545,
+        "time": 2416812,
+        "type": "sentence"
+    }, {
+        "end": 45677,
+        "value": "For one thing, domestic politics preclude it.",
+        "start": 45632,
+        "time": 2421505,
+        "type": "sentence"
+    }, {
+        "end": 45823,
+        "value": "Western leaders obviously cannot base national-security policy on the need to maintain forces in Central Europe simply to keep the Soviets there.",
+        "start": 45678,
+        "time": 2424695,
+        "type": "sentence"
+    }, {
+        "end": 46111,
+        "value": "The idea of deploying large numbers of troops in order to bait the Soviets into an order-keeping competition would be dismissed as bizarre, and contrary to the general belief that ending the Cold War and removing the Soviet yoke from Eastern Europe would make the world safer and better.",
+        "start": 45824,
+        "time": 2431737,
+        "type": "sentence"
+    }, {
+        "end": 46212,
+        "value": "For another, the idea of propping up a declining rival runs counter to the basic behavior of states.",
+        "start": 46112,
+        "time": 2445377,
+        "type": "sentence"
+    }, {
+        "end": 46355,
+        "value": "States are principally concerned about their relative power in the system--hence they look for opportunities to take advantage of one another.",
+        "start": 46213,
+        "time": 2451103,
+        "type": "sentence"
+    }, {
+        "end": 46507,
+        "value": "If anything, they prefer to see adversaries decline, and invariably do whatever they can to speed up the process and maximize the distance of the fall.",
+        "start": 46356,
+        "time": 2457663,
+        "type": "sentence"
+    }, {
+        "end": 46665,
+        "value": "States, in other words, do not ask which distribution of power best facilitates stability and then do everything possible to build or maintain such an order.",
+        "start": 46508,
+        "time": 2466210,
+        "type": "sentence"
+    }, {
+        "end": 46766,
+        "value": "Instead, each pursues the narrower aim of maximizing its power advantage over potential adversaries.",
+        "start": 46666,
+        "time": 2474506,
+        "type": "sentence"
+    }, {
+        "end": 46858,
+        "value": "The particular international order that results is simply a by-product of that competition.",
+        "start": 46767,
+        "time": 2480370,
+        "type": "sentence"
+    }, {
+        "end": 46926,
+        "value": "Consider, for example, the origins of the Cold War order in Europe.",
+        "start": 46859,
+        "time": 2485244,
+        "type": "sentence"
+    }, {
+        "end": 46958,
+        "value": "No state intended to create it.",
+        "start": 46927,
+        "time": 2489458,
+        "type": "sentence"
+    }, {
+        "end": 47161,
+        "value": "In fact the United States and the Soviet Union each worked hard in the early years of the Cold War to undermine the other's position in Europe, which would have ended the bipolar order on the Continent.",
+        "start": 46959,
+        "time": 2491363,
+        "type": "sentence"
+    }, {
+        "end": 47313,
+        "value": "The remarkably stable system that emerged in Europe in the late 1940s was the unintended consequence of an intense competition between the superpowers.",
+        "start": 47162,
+        "time": 2500559,
+        "type": "sentence"
+    }, {
+        "end": 47476,
+        "value": "Moreover, even if the Americans and the West Europeans wanted to help the Soviets maintain their status as a superpower, it is not apparent that they could do so.",
+        "start": 47314,
+        "time": 2508197,
+        "type": "sentence"
+    }, {
+        "end": 47601,
+        "value": "The Soviet Union is leaving Eastern Europe and cutting its military forces largely because its economy is floundering badly.",
+        "start": 47477,
+        "time": 2516771,
+        "type": "sentence"
+    }, {
+        "end": 47727,
+        "value": "The Soviets don't know how to fix their economy themselves, and there is little that Western governments can do to help them.",
+        "start": 47602,
+        "time": 2523498,
+        "type": "sentence"
+    }, {
+        "end": 47905,
+        "value": "The West can and should avoid doing malicious mischief to the Soviet economy, but at this juncture it is difficult to see how the West can have a significant positive influence.",
+        "start": 47728,
+        "time": 2529755,
+        "type": "sentence"
+    }, {
+        "end": 48047,
+        "value": "The fact that the West cannot sustain the Cold War does not mean that the United States should make no attempt to preserve the current order.",
+        "start": 47906,
+        "time": 2538186,
+        "type": "sentence"
+    }, {
+        "end": 48123,
+        "value": "It should do what it can to avert a complete mutual withdrawal from Europe.",
+        "start": 48048,
+        "time": 2544547,
+        "type": "sentence"
+    }, {
+        "end": 48313,
+        "value": "For instance, the American negotiating position at the conventional-arms-control talks should aim toward large mutual force reductions but should not contemplate complete mutual withdrawal.",
+        "start": 48124,
+        "time": 2548332,
+        "type": "sentence"
+    }, {
+        "end": 48445,
+        "value": "The Soviets may opt to withdraw all their forces unilaterally anyway; if so, there is little the United States can do to stop them.",
+        "start": 48314,
+        "time": 2558418,
+        "type": "sentence"
+    }, {
+        "end": 48604,
+        "value": "Should complete Soviet withdrawal from Eastern Europe prove unavoidable, the West would confront the question of how to maintain peace in a multipolar Europe.",
+        "start": 48446,
+        "time": 2565908,
+        "type": "sentence"
+    }, {
+        "end": 48645,
+        "value": "Three policy prescriptions are in order.",
+        "start": 48605,
+        "time": 2573853,
+        "type": "sentence"
+    }, {
+        "end": 48765,
+        "value": "First, the United States should encourage the limited and carefully managed proliferation of nuclear weapons in Europe.",
+        "start": 48646,
+        "time": 2576210,
+        "type": "sentence"
+    }, {
+        "end": 48988,
+        "value": "The best hope for avoiding war in post-Cold War Europe is nuclear deterrence; hence some nuclear proliferation is necessary, to compensate for the withdrawal of the Soviet and American nuclear arsenals from Central Europe.",
+        "start": 48766,
+        "time": 2581941,
+        "type": "sentence"
+    }, {
+        "end": 49078,
+        "value": "Ideally, as I have argued, nuclear weapons would spread to Germany but to no other state.",
+        "start": 48989,
+        "time": 2593465,
+        "type": "sentence"
+    }, {
+        "end": 49317,
+        "value": "Second, Britain and the United States, as well as the Continental states, will have to counter any emerging aggressor actively and efficiently, in order to offset the ganging up and bullying that are sure to arise in post-Cold War Europe.",
+        "start": 49079,
+        "time": 2598753,
+        "type": "sentence"
+    }, {
+        "end": 49461,
+        "value": "Balancing in a multipolar system, however, is usually a problem-ridden enterprise, because of either geography or the problems of coordination.",
+        "start": 49318,
+        "time": 2610908,
+        "type": "sentence"
+    }, {
+        "end": 49600,
+        "value": "Britain and the United States, physically separated from the Continent, may conclude that they have little interest in what happens there.",
+        "start": 49462,
+        "time": 2619159,
+        "type": "sentence"
+    }, {
+        "end": 49686,
+        "value": "That would be abandoning their responsibilities and, more important, their interests.",
+        "start": 49601,
+        "time": 2625925,
+        "type": "sentence"
+    }, {
+        "end": 49775,
+        "value": "Both states failed to counter Germany before the two world wars, making war more likely.",
+        "start": 49687,
+        "time": 2630741,
+        "type": "sentence"
+    }, {
+        "end": 49853,
+        "value": "It is essential for peace in Europe that they not repeat their past mistakes.",
+        "start": 49776,
+        "time": 2636136,
+        "type": "sentence"
+    }, {
+        "end": 49973,
+        "value": "Both states must maintain military forces that can be deployed against Continental states that threaten to start a war.",
+        "start": 49854,
+        "time": 2640134,
+        "type": "sentence"
+    }, {
+        "end": 50075,
+        "value": "To do this they must persuade their citizens to support a policy of continued Continental commitment.",
+        "start": 49974,
+        "time": 2646258,
+        "type": "sentence"
+    }, {
+        "end": 50293,
+        "value": "This will be more difficult than it once was, because its principal purpose will be to preserve peace, rather than to prevent an imminent hegemony, and the prevention of hegemony is a simpler goal to explain publicly.",
+        "start": 50076,
+        "time": 2650904,
+        "type": "sentence"
+    }, {
+        "end": 50489,
+        "value": "Furthermore, this prescription asks both countries to take on an unaccustomed task, given that it is the basic nature of states to focus on maximizing relative power, not on bolstering stability.",
+        "start": 50294,
+        "time": 2661904,
+        "type": "sentence"
+    }, {
+        "end": 50646,
+        "value": "Nevertheless, the British and the Americans have a real stake in peace, especially since there is the risk that a European war might involve the large-scale",
+        "start": 50490,
+        "time": 2672645,
+        "type": "sentence"
+    }, {
+        "end": 50670,
+        "value": "use of nuclear weapons.",
+        "start": 50647,
+        "time": 2680266,
+        "type": "sentence"
+    }, {
+        "end": 50812,
+        "value": "Therefore, it should be possible for their governments to lead their publics to recognize this interest and support policies that protect it.",
+        "start": 50671,
+        "time": 2681996,
+        "type": "sentence"
+    }, {
+        "end": 50914,
+        "value": "The Soviet Union may eventually return to its past expansionism and threaten to upset the status quo.",
+        "start": 50813,
+        "time": 2689005,
+        "type": "sentence"
+    }, {
+        "end": 50950,
+        "value": "If so, we are back to the Cold War.",
+        "start": 50915,
+        "time": 2694699,
+        "type": "sentence"
+    }, {
+        "end": 51105,
+        "value": "However, if the Soviets adhere to statusquo policies, Soviet power could play a key role in countering Germany and in maintaining order in Eastern Europe.",
+        "start": 50951,
+        "time": 2697259,
+        "type": "sentence"
+    }, {
+        "end": 51305,
+        "value": "It is important in those cases where the Soviets are acting in a balancing capacity that the United States cooperate with its former adversary and not let residual distrust from the Cold War obtrude.",
+        "start": 51106,
+        "time": 2705862,
+        "type": "sentence"
+    }, {
+        "end": 51409,
+        "value": "Third, a concerted effort should be made to keep hypernationalism at bay, especially in Eastern Europe.",
+        "start": 51306,
+        "time": 2715842,
+        "type": "sentence"
+    }, {
+        "end": 51549,
+        "value": "Nationalism has been contained during the Cold War, but it is likely to reemerge once Soviet and American forces leave the heart of Europe.",
+        "start": 51410,
+        "time": 2721726,
+        "type": "sentence"
+    }, {
+        "end": 51595,
+        "value": "It will be a force for trouble unless curbed.",
+        "start": 51550,
+        "time": 2728935,
+        "type": "sentence"
+    }, {
+        "end": 51760,
+        "value": "The teaching of honest national history is especially important, since the teaching of false, chauvinist history is the main vehicle for spreading hypernationalism.",
+        "start": 51596,
+        "time": 2731463,
+        "type": "sentence"
+    }, {
+        "end": 51882,
+        "value": "States that teach a dishonestly self-exculpating or self-glorifying history should be publicly criticized and sanctioned.",
+        "start": 51761,
+        "time": 2740250,
+        "type": "sentence"
+    }, {
+        "end": 51916,
+        "value": "None of these tasks will be easy.",
+        "start": 51883,
+        "time": 2746857,
+        "type": "sentence"
+    }, {
+        "end": 52115,
+        "value": "In fact, I expect that the bulk of my prescriptions will not be followed; most run contrary to important strains of domestic American and European opinion, and to the basic nature of state behavior.",
+        "start": 51917,
+        "time": 2748958,
+        "type": "sentence"
+    }, {
+        "end": 52186,
+        "value": "And even if they are followed, peace in Europe will not be guaranteed.",
+        "start": 52116,
+        "time": 2759469,
+        "type": "sentence"
+    }, {
+        "end": 52330,
+        "value": "If the Cold War is truly behind us, therefore, the stability of the past forty-five years is not likely to be seen again in the coming decades.",
+        "start": 52187,
+        "time": 2763356,
+        "type": "sentence"
+    }]
+}
